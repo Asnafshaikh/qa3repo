@@ -1,0 +1,5 @@
+"Guid","Emailmanaged__c","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+0e8b8953-cfbc-4727-86ad-13d34d8cf77d,"#N/A",Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator
+1febdbbb-58d8-4538-ab57-5cc9ff134184,"#N/A",Rule 3,true,1 AND 0,Custom,"#N/A",On Calculate,1.0,"#N/A",Calculator
+6a92c70b-c8bb-427d-adfd-b04e1e337319,"#N/A",Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+ff157409-9d23-4993-bd67-5ebdbc76b3f1,"#N/A",Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
